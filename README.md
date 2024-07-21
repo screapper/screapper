@@ -1,17 +1,17 @@
-```C++
 #include <iostream>
 
 using namespace std;
+
 void screapper(){
-cout << "btw i like @zuck";
+cout << "btw i like @zuck" << endl;
 }
 
 void innikitaaw(){
-cout << "soon";
+cout << "innikitaaw coming soon";
+
 }
 
 int main(){
 screapper();
 innikitaaw();
 }
-```
