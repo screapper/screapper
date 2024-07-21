@@ -12,6 +12,6 @@ cout << "soon";
 
 int main(){
 screapper();
-innikitaww();
+innikitaaw();
 }
 ```
